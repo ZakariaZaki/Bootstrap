@@ -1,0 +1,19 @@
+
+*{
+  border-radius: 5px;
+}
+.container, .container-2, .container-3, .container-4{
+  max-width: 70%;
+  margin: 20px auto;
+  padding: 5px;
+  text-align: center;
+}
+.container, .container-3{
+  background-color: #c78bdd;
+  border: 1px solid;
+
+}
+.outline div{
+  border: 1px solid;
+  background-color: #c78bdd;
+}
